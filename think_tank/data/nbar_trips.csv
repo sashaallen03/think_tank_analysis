@@ -1,0 +1,2 @@
+doc_id,document_link,page_count,cleaned_filer_names,member_name,member_id,traveler_is_likely_member,state,district,party,year,filing_type,departure_date,return_date,trip_length,sponsors_cleaned,combined_dests,dom_or_int,country_is_donor
+500009351,https://www.documentcloud.org/documents/24150245-500009351,9,Charles Boustany,"Boustany, Charles W.",B001255,TRUE,LA,3,R,2013,Original,2013-04-02,2013-04-04,3,The National Bureau Of Asian Research,"Vancouver, Canada",international,no

@@ -1,0 +1,5 @@
+doc_id,document_link,page_count,cleaned_filer_names,member_name,member_id,traveler_is_likely_member,state,district,party,year,filing_type,departure_date,return_date,trip_length,sponsors_cleaned,combined_dests,dom_or_int,country_is_donor
+500018759,https://www.documentcloud.org/documents/24140995-500018759,19,Claire Figel,"Royce, Edward",R000487,FALSE,CA,39,R,2018,Original,2018-02-19,2018-02-24,6,Center For American Progress,"Mexico City, Mexico",international,no
+500018764,https://www.documentcloud.org/documents/24140990-500018764,19,Juan Carlos Monje,"Royce, Edward",R000487,FALSE,CA,39,R,2018,Original,2018-02-19,2018-02-24,6,Center For American Progress,"Mexico City, Mexico",international,no
+500018785,https://www.documentcloud.org/documents/24140970-500018785,19,Elizabeth Lopez-Sandoval,"Crowley, Joseph",C001038,FALSE,NY,14,D,2018,Original,2018-02-19,2018-02-24,6,Center For American Progress,"Mexico City, Mexico",international,no
+500019167,https://www.documentcloud.org/documents/24140542-500019167,14,Brandon Batch,"McCaul, Michael",M001157,FALSE,TX,10,R,2018,Amendment,2018-02-19,2018-02-24,6,Center For American Progress,"Mexico City, Mexico",international,no
